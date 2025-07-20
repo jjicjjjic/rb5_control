@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_error_code.dir/error_code.o -o example_error_code  -lrbpodo 

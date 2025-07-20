@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_get_control_box_info.dir/get_control_box_info.o -o example_get_control_box_info  -lrbpodo 

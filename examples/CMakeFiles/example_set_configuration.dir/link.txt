@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_set_configuration.dir/set_configuration.o -o example_set_configuration  -lrbpodo 

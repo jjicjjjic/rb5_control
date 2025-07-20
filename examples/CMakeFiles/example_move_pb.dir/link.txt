@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_move_pb.dir/move_pb.o -o example_move_pb  -lrbpodo 

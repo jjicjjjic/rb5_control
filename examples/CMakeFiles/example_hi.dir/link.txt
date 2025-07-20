@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_hi.dir/hi.o -o example_hi  -lrbpodo 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_gripper.dir/gripper.o -o example_gripper  -lrbpodo 

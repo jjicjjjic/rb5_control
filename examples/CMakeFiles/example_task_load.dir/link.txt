@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_task_load.dir/task_load.o -o example_task_load  -lrbpodo 

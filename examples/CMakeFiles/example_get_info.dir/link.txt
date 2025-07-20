@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_get_info.dir/get_info.o -o example_get_info  -lrbpodo 

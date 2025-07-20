@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_offset.dir/offset.o -o example_offset  -lrbpodo 

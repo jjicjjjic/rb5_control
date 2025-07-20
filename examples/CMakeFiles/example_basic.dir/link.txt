@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_basic.dir/basic.o -o example_basic  -lrbpodo 

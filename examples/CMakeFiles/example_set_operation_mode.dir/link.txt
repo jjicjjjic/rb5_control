@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/example_set_operation_mode.dir/set_operation_mode.o -o example_set_operation_mode  -lrbpodo 
